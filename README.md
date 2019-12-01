@@ -1,13 +1,14 @@
 
 # Project 2: Continuous Control
 
+## Overview
+
+This project is solution for the second prject of the  [Udacity's Deep Reinforcement Learning Nanodegree (Facebook PyTorch Nanodegree Scholarship Phase 3)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). Policy-Based-Methods such as Deep Q-Network (*DQN*) is used to train an agent to naviagte the world and collect yellow bananas while avoiding blue bananas. 
+
 ## Introduction
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
-| Random agent             |  Trained agent |
-:-------------------------:|:-------------------------:
-![Random Agent](results/random_agent.gif)  |  ![Trained Agent](results/trained_agent.gif)
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
