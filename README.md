@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is solution for the second project of the  [Udacity's Deep Reinforcement Learning Nanodegree (Facebook PyTorch Nanodegree Scholarship Phase 3)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). Policy-Based-Methods such as Deep Q-Network (*DQN*) is used to train an agent to naviagte the world and collect yellow bananas while avoiding blue bananas. 
+This project is solution for the second project of the  [Udacity's Deep Reinforcement Learning Nanodegree (Facebook PyTorch Nanodegree Scholarship Phase 3)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). For this project we will use Deep Reinforcement Learning Policy-Based-Methods to train an agent ( double-jointed arm ) to maintain its position at the target location for as many time steps as possible.
 
 ## Introduction
 
